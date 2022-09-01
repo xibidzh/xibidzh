@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xibidzh
 - 👀 I’m interested in Frontend
 - 🌱 I’m currently learning React/Node.js
-- 📫 How to reach me tg: @xibidzh, or 4illoff@gmaol.com
+- 📫 How to reach me tg: @xibidzh, or 4illoff@gmail.com
 
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!---
